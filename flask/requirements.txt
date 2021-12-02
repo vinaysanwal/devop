@@ -1,0 +1,11 @@
+flasgger==0.9.4
+Flask==1.0.2
+Flask-HTTPAuth==3.3.0
+Flask-RESTful==0.3.7
+flask-restful-swagger==0.20.1
+Flask-Track-Usage==2.0.0
+itsdangerous==1.1.0
+Jinja2==2.10
+MarkupSafe==1.1.1
+uWSGI==2.0.18
+Werkzeug==0.15.1
